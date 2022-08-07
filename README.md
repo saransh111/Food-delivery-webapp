@@ -42,6 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 # Results
 
 ![1](images/1.PNG)
+![1](images/2.PNG)![1](images/3.PNG)![1](images/4.PNG)![1](images/5.PNG)![1](images/6.PNG)![1](images/7.PNG)![1](images/8.PNG)
 
 ## Learn More
 
